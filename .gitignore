@@ -1,0 +1,4 @@
+# Ignore these files
+*.log
+secret.txt
+12882_2021_2474_MOESM1_ESM.csv
